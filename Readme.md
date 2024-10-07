@@ -1,4 +1,4 @@
-#**TASKIFY 2.0**#
+#TASKIFY 2.0#
 
 A simple To-Do List app made in Streamlit.
 
