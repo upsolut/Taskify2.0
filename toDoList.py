@@ -38,7 +38,7 @@ def toDoList():
         with col3:
             if st.button("Delete", key=f"delete_{i}"):
                 st.session_state.tasks.remove(task)
-                
+                st.experimental_rerun()
 
         # Mark tasks as completed
         if task_done:

@@ -1,8 +1,12 @@
-#TASKIFY 2.0#
+# TASKIFY 2.0
 
-A simple To-Do List app made in Streamlit.
+A simple To-Do List app built using Streamlit.
 
-##Features:##
+## Features
 
-1. Add, delete tasks with description.
-2. Filter tasks as all, completed and pending.
+- Add and delete tasks with descriptions.
+- Filter tasks by status: **All**, **Completed**, and **Pending**.
+
+## Deployed Link
+
+[Taskify 2.0](https://taskify2-0.onrender.com)
